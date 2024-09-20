@@ -2,9 +2,9 @@ import React from "react";
 import Image from "next/image";
 import logo from "/app/logo.png";
 import Link from "next/link";
-import mastercardImg from "/app/images/mastercard.jpg";
-import visacardImg from "/app/images/visa.jpg";
-import paypalImg from "/app/images/paypal.jpg";
+import mastercardImg from "../../public/images/mastercard.jpg";
+import visacardImg from "../../public/images/paypal.jpg";
+import paypalImg from "../../public/images/visa.jpg";
 
 const Footer = () => {
   return (

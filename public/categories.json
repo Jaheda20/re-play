@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "category": "Toys",
+    "image": "https://i.postimg.cc/N09hXhH4/photo-1534309396709-4b5a9b59165a-q-80-w-1476-auto-format-fit-crop-ixlib-rb-4-0.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Clothing",
+    "image": "https://i.postimg.cc/bv796yxV/Calgary-Consignment-Stores.jpg"
+  },
+  {
+    "id": 3,
+    "category": "Footwear",
+    "image": "https://i.postimg.cc/MHYgwqCW/photo-1678192568444-78b428b7cd1a-q-80-w-1471-auto-format-fit-crop-ixlib-rb-4-0.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Books",
+    "image": "https://i.postimg.cc/Pf41DzRR/Classic-children-s-books.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Baby Gear",
+    "image": "https://i.postimg.cc/rpxrwS4g/doublestrollers-2048px-1010066-3x2-1.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Furniture",
+    "image": "https://i.postimg.cc/9FrBCW5J/3.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Accessories",
+    "image": "https://i.postimg.cc/3R8g6hFj/527314-24951-XL.jpg"
+  }
+]
