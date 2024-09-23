@@ -1,5 +1,8 @@
 import Banner from "./home/Banner";
+import Brands from "./home/Brands";
 import CategoryBar from "./home/CategoryBar";
+import Decor from "./home/Decor";
+import FreeShippingItems from "./home/FreeShippingItems";
 import Offers from "./home/Offers";
 
 export default function Home() {
@@ -8,6 +11,9 @@ export default function Home() {
       <Banner />
       <CategoryBar />
       <Offers />
+      <FreeShippingItems />
+      <Decor />
+      <Brands />
     </main>
   );
 }

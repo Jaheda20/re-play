@@ -38,7 +38,7 @@ const Banner = () => {
           Where Fun Meets Value: Explore Our Collection of Cherished Gems.
           Discover Affordable Joy and Quality in Every Find!
         </p>
-        <button className="btn mt-6 bg-blue-300 font-semibold">
+        <button className="btn mt-6 border-yellow-600 bg-white font-semibold">
           Start Shopping
         </button>
       </div>

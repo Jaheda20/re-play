@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "kidsBrandName": "Name it",
+    "logo": "https://i.postimg.cc/qvfxFrXb/Name-It-Logo.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 2,
+    "kidsBrandName": "Gänt",
+    "logo": "https://i.postimg.cc/k5jy5bKG/image.png",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "kidsBrandName": "Lego",
+    "logo": "https://i.postimg.cc/P5JJjvX2/1200px-LEGO-logo-svg.png",
+    "category": "Toys"
+  },
+  {
+    "id": 4,
+    "kidsBrandName": "Adidas",
+    "logo": "https://i.postimg.cc/pTJR8PVm/Adidas-Logo-wine.png",
+    "category": "Toys"
+  },
+  {
+    "id": 5,
+    "kidsBrandName": "Calvin Klein",
+    "logo": "https://i.postimg.cc/SNJbQ692/616px-CK-Calvin-Klein-logo-svg.png",
+    "category": "Shoes"
+  },
+  {
+    "id": 6,
+    "kidsBrandName": "H & M kids",
+    "logo": "https://i.postimg.cc/L55wXSJK/image.png",
+    "category": "Shoes"
+  },
+  {
+    "id": 7,
+    "kidsBrandName": "Story World",
+    "logo": "https://i.postimg.cc/pT1DJMLB/original.png",
+    "category": "Books"
+  },
+  {
+    "id": 8,
+    "kidsBrandName": "Book Worms",
+    "logo": "https://i.postimg.cc/XqCyKZhV/f0bd9ff852d0641fee9c3a02421dbe35.jpg",
+    "category": "Books"
+  },
+  {
+    "id": 9,
+    "kidsBrandName": "Ikea",
+    "logo": "https://i.postimg.cc/7Pd3C4cH/image.png",
+    "category": "Accessories"
+  },
+  {
+    "id": 10,
+    "kidsBrandName": "Little Dutch",
+    "logo": "https://i.postimg.cc/5NzwLGdw/0007648.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 11,
+    "kidsBrandName": "Lindex",
+    "logo": "https://i.postimg.cc/xj7nzpny/image.png",
+    "category": "Toys"
+  },
+  {
+    "id": 12,
+    "kidsBrandName": "Nike",
+    "logo": "https://i.postimg.cc/YSdgtBYw/Nike-Logo.png",
+    "category": "Furniture"
+  }
+]

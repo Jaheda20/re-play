@@ -26,7 +26,7 @@ const Footer = () => {
             </div>
           </div>
           <p className="pl-2 font-medium mt-4">
-            © {new Date().getFullYear()} - Re-Shop
+            © {new Date().getFullYear()} Re-Play
             <br />
             All right reserved by Re-Shop
           </p>
